@@ -19,3 +19,22 @@ path="src/r13_dyn_dispatch.rs"
 name="r14_interior_mutability"
 path="src/r14_iterior_mutability.rs"
 
+[[bin]]
+name="r15_parallel_processing"
+path="src/r15_parallel_processing.rs"
+
+[[bin]]
+name="r16_borrow"
+path="src/r16_borrow.rs"
+
+[[bin]]
+name="r17_cow"
+path="src/r17_cow.rs"
+
+[[bin]]
+name="r18_iterator"
+path="src/r18_iterator.rs"
+
+[[bin]]
+name="r19_collection"
+path="src/r19_collection.rs"
