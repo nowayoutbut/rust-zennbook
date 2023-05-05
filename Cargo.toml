@@ -15,3 +15,7 @@ path="src/r12_trait.rs"
 name="r13_dyn_dispatch"
 path="src/r13_dyn_dispatch.rs"
 
+[[bin]]
+name="r14_interior_mutability"
+path="src/r14_iterior_mutability.rs"
+
