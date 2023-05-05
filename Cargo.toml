@@ -10,3 +10,8 @@ edition = "2021"
 [[bin]]
 name="r12_trait"
 path="src/r12_trait.rs"
+
+[[bin]]
+name="r13_dyn_dispatch"
+path="src/r13_dyn_dispatch.rs"
+
